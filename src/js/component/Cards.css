@@ -1,0 +1,30 @@
+.titulo {
+background-color: red;
+    font-size: medium ;
+    font-style: oblique;
+    object-fit: contain;
+    display:flex;
+    height: 390px;
+}
+
+.parrafo {
+
+    font-size: small;
+    object-fit: contain;
+    display:flex;
+    height: 200px;
+    overflow-y: scroll;
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+    }
+
+    .card-img{
+        width: 100%;
+        height: 160px;
+    }
+
